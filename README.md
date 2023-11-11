@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on everything 
 - 🌱 I’m currently learning Kotlin
-- 🤔 I’m looking for help with Mobide Developur 
+- 🤔 I’m looking for help with Mbile Developer 
 - 💬 Ask me about Kotlin
 - 😄 Pronouns: she
 
