@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on everything 
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on kotlin and java
+- 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with Android Developer 
-- 💬 Ask me about Kotlin
 - 😄 Pronouns: she
 <img src="Online Coding classes for Kids _ ZugZwang Academy.gif" width="auto">
 
