@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on kotlin and java
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with Android Developer 
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 <img src="Online Coding classes for Kids _ ZugZwang Academy.gif" width="auto">
 
 
