@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on kotlin and java
+- 🔭 I’m currently working on kotlin,java and dart
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with Android Developer 
 - 😄 Pronouns: she/her
