@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sevim Büşra</h1>
 <h3 align="center">A passionate mobil developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Kotlin**
+- 🔭 I’m currently working on **Python**
 
 - 👯 I’m looking to collaborate on **Kotlin**
-
-- 🤝 I’m looking for help with **Flutter**
 
 - 📫 How to reach me **sevimbusra78@gmail.com**
 
