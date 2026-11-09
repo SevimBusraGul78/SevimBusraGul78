@@ -26,7 +26,7 @@
 <a href="https://github.com/SevimBusraGul78">
 <img src="https://img.shields.io/badge/GITHUB-172A3A?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/LINKEDIN_KULLANICI_ADIN">
+<a href="https://www.linkedin.com/in/sevimbusra/">
 <img src="https://img.shields.io/badge/LINKEDIN-245B62?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
